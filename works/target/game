@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+killall python >/dev/null 2>&1
+
+echo "cd source..."
+cd ../source
+
+echo 'run my program...'
+python game.py $*
