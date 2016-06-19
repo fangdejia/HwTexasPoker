@@ -1,2 +1,2 @@
-# Huawei-Texas-Poker
-华为精英挑战赛德州扑克客户端AI代码
+# HuaweiTexasPoker
+此为2015年华为精英挑战赛中德州扑克客户端AI代码。
